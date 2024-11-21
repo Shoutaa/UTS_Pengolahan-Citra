@@ -15,5 +15,5 @@ Nama   : Dhika Restu Fauzi
 
 ```Transformasi Fourier```: Lakukan Transformasi Fourier pada sebuah citra grayscale. Tampilkan magnitude spectrum hasil transformasi serta gambar hasil invers transformasi. Sertakan penjelasan mengenai informasi apa yang dapat diperoleh dari magnitude spectrum
 
- ```Operasi Aritmatika Citra``` - Pencerahan: Implementasikan fungsi pencerahan citra dengan menambahkan konstanta pada setiap piksel. Pastikan hasilnya tidak melewati nilai maksimum dengan menggunakan operasi clipping. Jelaskan perubahan yang terjadi pada citra setelah pencerahan.
+ ```Operasi Aritmatika Citra - Pencerahan```: Implementasikan fungsi pencerahan citra dengan menambahkan konstanta pada setiap piksel. Pastikan hasilnya tidak melewati nilai maksimum dengan menggunakan operasi clipping. Jelaskan perubahan yang terjadi pada citra setelah pencerahan.
 
